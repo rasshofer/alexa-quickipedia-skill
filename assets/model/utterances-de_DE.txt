@@ -1,0 +1,15 @@
+GetNewIntent Neues
+GetNewIntent Neuem
+GetNewIntent neuestem Quick
+GetNewIntent neuestem Beitrag
+GetNewIntent neuester Erklärung
+GetPopularIntent Beliebtes
+GetPopularIntent Beliebtem
+GetPopularIntent beliebtestem Quick
+GetPopularIntent beliebtestem Beitrag
+GetPopularIntent beliebtester Erklärung
+GetRandomIntent Zufälliges
+GetRandomIntent Zufälligem
+GetRandomIntent zufälligem Quick
+GetRandomIntent zufälligem Beitrag
+GetRandomIntent zufälliger Erklärung

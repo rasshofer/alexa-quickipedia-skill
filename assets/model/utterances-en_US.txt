@@ -1,0 +1,17 @@
+GetNewIntent latest
+GetNewIntent newest
+GetNewIntent latest quick
+GetNewIntent latest post
+GetNewIntent latest explanation
+GetNewIntent newest quick
+GetNewIntent newest post
+GetNewIntent newest explanation
+GetPopularIntent popular
+GetPopularIntent most popular
+GetPopularIntent most popular quick
+GetPopularIntent most popular post
+GetPopularIntent most popular explanation
+GetRandomIntent random
+GetRandomIntent random quick
+GetRandomIntent random post
+GetRandomIntent random explanation

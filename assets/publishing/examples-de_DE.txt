@@ -1,0 +1,3 @@
+Alexa frage Quickipedia nach dem neuesten Quick
+Alexa frage Quickipedia nach dem beliebtesten Quick
+Alexa frage Quickipedia nach einem zufälligen Quick

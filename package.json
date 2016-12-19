@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "alexa-quickipedia-skill",
+  "version": "0.0.1",
+  "scripts": {
+    "lambda-bundle": "cd lambda && zip -r ../lambda.zip ."
+  }
+}

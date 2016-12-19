@@ -1,0 +1,3 @@
+Alexa ask Quickipedia for the latest quick
+Alexa ask Quickipedia for the most popular quick
+After ask Quickipedia for a random quick

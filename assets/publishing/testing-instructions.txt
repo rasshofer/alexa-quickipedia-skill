@@ -1,0 +1,4 @@
+Ask the skill for…
+- random explanation/quick/post
+- popular explanation/quick/post
+- newest explanation/quick/post
